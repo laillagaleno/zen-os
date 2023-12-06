@@ -13,6 +13,7 @@
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-ferramentas">Ferramentas</a> • 
+  <a href="#-como-instalar-?">Como instalar?</a> • 
  <a href="#-autores">Autores</a>
 </p>
 
@@ -24,6 +25,7 @@ O sistema é voltado para atender às demandas de estudantes de Ciência da Comp
 Essas ferramentas permitem que os alunos desenvolvam projetos em diferentes áreas, como programação, segurança, redes, design e bancos de dados. 
 
 Quer saber mais sobre sua construção? [Visite nosso Wiki](https://github.com/laillagaleno/zen-os/wiki)!
+
 
 ## 🛠 Ferramentas
 
@@ -59,6 +61,15 @@ Quer saber mais sobre sua construção? [Visite nosso Wiki](https://github.com/l
 #### Editor de Código
 - [Visual Studio Code](https://code.visualstudio.com/)
 
+## Como instalar?
+Uma ISO é um arquivo de imagem de disco que contém uma cópia completa de um sistema operacional, aplicativo ou outro software. Para instalar uma ISO, você precisará de um programa que possa montar o arquivo como um disco virtual. 
+
+Primeiro você precisa fazer o download da nossa distro ZEN neste repositório. A partir da ISO baixada você pode optar entre diversos métodos de instalação do Linux (pendrive, DVD, máquina virtual etc.). Para isso, deixaremos tutoriais que recomendamos para lhe ajudar nessa etapa: 
+
+- [Como criar um pendrive bootável com uma distro Linux](https://tecnoblog.net/responde/como-criar-um-pendrive-bootavel-com-uma-distro-do-linux/)
+
+- [Como dar boot no computador pelo pendrive](https://tecnoblog.net/responde/boot-pen-drive-windows-mac/)
+  
 ## 🦸 Autores
 
 [<img src="https://avatars.githubusercontent.com/u/81526654?v=4" width=115 > <br> <sub> Adrian Mouzinho </sub>](https://github.com/adrianmouzinho) |  [<img src="https://avatars.githubusercontent.com/u/82004991?s=400&u=969fc7d5e3ea0960bae5af72e9bf3316901bc0ac&v=4" width=115 > <br> <sub> Lailla Galeno </sub>](https://github.com/laillagaleno) | [<img src="https://avatars.githubusercontent.com/u/70243609?v=4" width=115 > <br> <sub> Matheus Tavares</sub>](https://github.com/MtAraujo) | [<img src="https://avatars.githubusercontent.com/u/84451644?v=4" width=115 > <br> <sub> Thiago de Aquino</sub>](https://github.com/Thilaq) | [<img src="https://avatars.githubusercontent.com/u/81340032?v=4" width=115 > <br> <sub> Willame Mouzinho </sub>](https://github.com/willamemouzinho) |
