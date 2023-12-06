@@ -50,7 +50,7 @@ Quer saber mais sobre sua construção? [Visite nosso Wiki](https://github.com/l
   
 #### Redes
 - [Wireshark](https://www.wireshark.org/download.html)
-- 
+  
 #### Designer
 - [Figma](https://www.figma.com/)
 - [Gimp](https://www.gimp.org/)
