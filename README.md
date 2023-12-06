@@ -1,13 +1,10 @@
 <p align="center">
-  <img alt="Capa do Zen OS" width="80%" src=""/>
+  <img alt="Capa do Zen OS" width="25%" src="https://github.com/laillagaleno/zen-os/blob/main/zen-os.svg"/>
 </p>
 
 <h1 align="center"> 
-  <a href="">🚀 Zen OS</a>
+  <a href="">🚀 O Sistema Operacional feito por quem entende</a>
 </h1>
-
-<p align="center">O Sistema Operacional feito por quem entende</p>
-
 <h4 align="center">
    STATUS: Finalizado!
 </h4>
