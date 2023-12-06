@@ -47,7 +47,7 @@ Quer saber mais sobre sua construção? [Visite nosso Wiki](https://github.com/l
 
 #### Motor de Jogo
 - [Godot](https://godotengine.org/)
-- 
+  
 #### Navegador
 - [Firefox](https://www.mozilla.org/pt-BR/firefox/new/)
   
