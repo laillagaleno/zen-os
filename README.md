@@ -62,7 +62,7 @@ Quer saber mais sobre sua construção? [Visite nosso Wiki](https://github.com/l
 #### Editor de Código
 - [Visual Studio Code](https://code.visualstudio.com/)
 
-## Autores
+## 🦸 Autores
 
 [<img src="https://avatars.githubusercontent.com/u/81526654?v=4" width=115 > <br> <sub> Adrian Mouzinho </sub>](https://github.com/adrianmouzinho) |  [<img src="https://avatars.githubusercontent.com/u/82004991?s=400&u=969fc7d5e3ea0960bae5af72e9bf3316901bc0ac&v=4" width=115 > <br> <sub> Lailla Galeno </sub>](https://github.com/laillagaleno) | [<img src="https://avatars.githubusercontent.com/u/70243609?v=4" width=115 > <br> <sub> Matheus Tavares</sub>](https://github.com/MtAraujo) | [<img src="https://avatars.githubusercontent.com/u/84451644?v=4" width=115 > <br> <sub> Thiago de Aquino</sub>](https://github.com/Thilaq) | [<img src="https://avatars.githubusercontent.com/u/81340032?v=4" width=115 > <br> <sub> Willame Mouzinho </sub>](https://github.com/willamemouzinho) |
 | :---: | :---: | :---: | :---: | :---: |
