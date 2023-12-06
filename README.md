@@ -16,10 +16,10 @@
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-ferramentas">Ferramentas</a> • 
- <a href="#-autor">Autores</a>
+ <a href="#-autores">Autores</a>
 </p>
 
-## 💻 Sobre
+## 💻 Sobre o projeto
 Zen OS é uma distribuição Linux feito por estudantes do Curso de Ciência da Computação do Instituto Federal de Educação, Ciência e Tecnologia do Maranhão - Campus Imperatriz (IFMA), como trabalho final da disciplina de Sistemas Operacionais ministrada pelo professor [Paulo Henrique Barbosa](https://github.com/agenteph).
 
 O sistema é voltado para atender às demandas de estudantes de Ciência da Computação e áreas afins, oferecendo uma ampla gama de ferramentas e recursos que são comumente utilizados nas disciplinas da área.
@@ -28,7 +28,7 @@ Essas ferramentas permitem que os alunos desenvolvam projetos em diferentes áre
 
 Quer saber mais sobre sua construção? [Visite nosso Wiki](https://github.com/laillagaleno/zen-os.wiki.git)!
 
-## 🛠 Ferramentas do Sistema
+## 🛠 Ferramentas
 
 #### Utilitários
 - [Bloco de Notas]()
