@@ -23,7 +23,7 @@ O sistema é voltado para atender às demandas de estudantes de Ciência da Comp
 
 Essas ferramentas permitem que os alunos desenvolvam projetos em diferentes áreas, como programação, segurança, redes, design e bancos de dados. 
 
-Quer saber mais sobre sua construção? [Visite nosso Wiki](https://github.com/laillagaleno/zen-os.wiki.git)!
+Quer saber mais sobre sua construção? [Visite nosso Wiki](https://github.com/laillagaleno/zen-os/wiki)!
 
 ## 🛠 Ferramentas
 
