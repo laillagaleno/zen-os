@@ -29,11 +29,6 @@ Quer saber mais sobre sua construção? [Visite nosso Wiki](https://github.com/l
 
 ## 🛠 Ferramentas
 
-#### Utilitários
-- [Bloco de Notas]()
-- [Calendário]()
-- [Calculadora]()
-
 #### Banco de dados
 - [MySQL](https://www.mysql.com/downloads/)
 - [PostgreSQL](https://www.postgresql.org/download/)
