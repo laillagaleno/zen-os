@@ -26,7 +26,7 @@
 ## 💻 Sobre o projeto
 **Zen OS** é uma distribuição Linux, baseada no **Ubuntu 20.04**, feito por estudantes do Curso de Ciência da Computação do Instituto Federal de Educação, Ciência e Tecnologia do Maranhão - Campus Imperatriz (IFMA), como trabalho final da disciplina de Sistemas Operacionais ministrada pelo professor [Paulo Henrique Barbosa](https://github.com/agenteph).
 
-O sistema foi customizado utilizando a ferramenta **Cubic**, com o objetivo de atender às demandas de estudantes de Ciência da Computação e áreas afins, oferecendo uma ampla gama de ferramentas e recursos que são comumente utilizados nas disciplinas da área, permitindo que os alunos desenvolvam projetos em diferentes áreas, como programação, segurança, redes, design e bancos de dados. Ficou curioso? Não perca tempo e baixe nossa distro [Zen OS](https://drive.google.com/drive/folders/1HWaw9LrVLXSPrDiYClvZFp04NxN6KnoU)
+O sistema foi customizado utilizando a ferramenta **Cubic**, com o objetivo de atender às demandas de estudantes de Ciência da Computação e áreas afins, oferecendo uma ampla gama de ferramentas e recursos que são comumente utilizados nas disciplinas da área, permitindo que os alunos desenvolvam projetos em diferentes áreas, como programação, segurança, redes, design e bancos de dados. Ficou curioso? Não perca tempo e baixe nossa distro [Zen OS](https://drive.google.com/file/d/16DHAPO265CsLqVfr-SYWoTvOG913a3uu/view)
 
 Quer saber mais sobre sua construção? [Visite nosso Wiki](https://github.com/laillagaleno/zen-os/wiki)!
 
