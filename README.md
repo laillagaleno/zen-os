@@ -1,3 +1,10 @@
+| <img src="https://github.com/laillagaleno/network-packet-tracer/blob/main/logo.png" alt="drawing" width="50"/>| Instituto Federal de Educação, Ciência e Tecnologia do Maranhão |
+| ---      | ---       |
+| Disciplina:  |  Sistemas Operacionais |
+| Professor:  | [Paulo Henrique Barbosa](https://github.com/agenteph)  |
+| Turma:  | BCC 2021 |
+| Período:  | 6° |
+
 <p align="center">
   <img alt="Capa do Zen OS" width="25%" src="https://github.com/laillagaleno/zen-os/blob/main/zen-os.svg"/>
 </p>
@@ -9,7 +16,6 @@
    STATUS: Finalizado!
 </h4>
 
-
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-ferramentas">Ferramentas</a> • 
@@ -18,17 +24,15 @@
 </p>
 
 ## 💻 Sobre o projeto
-Zen OS é uma distribuição Linux feito por estudantes do Curso de Ciência da Computação do Instituto Federal de Educação, Ciência e Tecnologia do Maranhão - Campus Imperatriz (IFMA), como trabalho final da disciplina de Sistemas Operacionais ministrada pelo professor [Paulo Henrique Barbosa](https://github.com/agenteph).
+**Zen OS** é uma distribuição Linux, baseada no **Ubuntu 20.04**, feito por estudantes do Curso de Ciência da Computação do Instituto Federal de Educação, Ciência e Tecnologia do Maranhão - Campus Imperatriz (IFMA), como trabalho final da disciplina de Sistemas Operacionais ministrada pelo professor [Paulo Henrique Barbosa](https://github.com/agenteph).
 
-O sistema é voltado para atender às demandas de estudantes de Ciência da Computação e áreas afins, oferecendo uma ampla gama de ferramentas e recursos que são comumente utilizados nas disciplinas da área.
-
-Essas ferramentas permitem que os alunos desenvolvam projetos em diferentes áreas, como programação, segurança, redes, design e bancos de dados. Ficou curioso? Não perca tempo e baixe nossa distro [Zen OS](https://drive.google.com/drive/folders/1HWaw9LrVLXSPrDiYClvZFp04NxN6KnoU)
-
+O sistema foi customizado utilizando a ferramenta **Cubic**, com o objetivo de atender às demandas de estudantes de Ciência da Computação e áreas afins, oferecendo uma ampla gama de ferramentas e recursos que são comumente utilizados nas disciplinas da área, permitindo que os alunos desenvolvam projetos em diferentes áreas, como programação, segurança, redes, design e bancos de dados. Ficou curioso? Não perca tempo e baixe nossa distro [Zen OS](https://drive.google.com/drive/folders/1HWaw9LrVLXSPrDiYClvZFp04NxN6KnoU)
 
 Quer saber mais sobre sua construção? [Visite nosso Wiki](https://github.com/laillagaleno/zen-os/wiki)!
 
-
 ## 🛠 Ferramentas
+
+Nosso sistema conta com algumas ferramentas divididas por áreas, como: 
 
 #### Banco de dados
 - [MySQL](https://www.mysql.com/downloads/)
@@ -38,13 +42,9 @@ Quer saber mais sobre sua construção? [Visite nosso Wiki](https://github.com/l
 - [GCC](https://gcc.gnu.org/)
 - [JDK](https://www.oracle.com/br/java/technologies/downloads/)
 - [Node.js](https://nodejs.org/en)
-- [Apache](https://www.apache.org/)
 
 #### Motor de Jogo
 - [Godot](https://godotengine.org/)
-  
-#### Navegador
-- [Firefox](https://www.mozilla.org/pt-BR/firefox/new/)
   
 #### Redes
 - [Wireshark](https://www.wireshark.org/download.html)
