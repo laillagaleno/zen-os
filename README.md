@@ -22,7 +22,8 @@ Zen OS é uma distribuição Linux feito por estudantes do Curso de Ciência da 
 
 O sistema é voltado para atender às demandas de estudantes de Ciência da Computação e áreas afins, oferecendo uma ampla gama de ferramentas e recursos que são comumente utilizados nas disciplinas da área.
 
-Essas ferramentas permitem que os alunos desenvolvam projetos em diferentes áreas, como programação, segurança, redes, design e bancos de dados. 
+Essas ferramentas permitem que os alunos desenvolvam projetos em diferentes áreas, como programação, segurança, redes, design e bancos de dados. Ficou curioso? Não perca tempo e baixe nossa distro [Zen OS](https://drive.google.com/drive/folders/1HWaw9LrVLXSPrDiYClvZFp04NxN6KnoU)
+
 
 Quer saber mais sobre sua construção? [Visite nosso Wiki](https://github.com/laillagaleno/zen-os/wiki)!
 
