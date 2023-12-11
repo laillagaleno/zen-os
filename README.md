@@ -6,7 +6,7 @@
 | Período:  | 6° |
 
 <p align="center">
-  <img alt="Capa do Zen OS" width="25%" src="https://github.com/laillagaleno/zen-os/blob/main/zen-os.svg"/>
+  <img alt="Capa do Zen OS" width="50%" src="https://github.com/laillagaleno/zen-os/blob/main/zen-os.svg"/>
 </p>
 
 <h1 align="center"> 
